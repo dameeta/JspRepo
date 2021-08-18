@@ -1,0 +1,65 @@
+Exercise_1:
+Description:
+There are two integer variables(or whatever type) and you should swap them in manually without using any build in function and any other variable.
+
+Exercise 2:
+
+Description:
+
+There is a String "Hello Welcome to Java World!!" and you need to reverse it. You have to show two ways of how to reverse the String by using build-in functions and doing manually.
+    
+Exercise_3:
+Description:
+
+Write a method in Java which takes String parameter and Character, then the method should remove the character from given String.
+
+Exercise_4:
+Description:
+
+Write a Java program which takes input of Integer number and outputs the ODD or EVEN of the entered number.
+
+Exercise_5:
+Description:
+
+Write a Java program that reads an integer between 0 and 1000 and adds all the digits of that integer
+
+Exercise_6:
+Description:
+
+Write java program which find the lowest common multiple of two Integer number.
+
+Exercise_7:
+Description:
+
+Write program that outputs 10 times without using any loop ('for', 'while', 'do while', ect.)
+
+Exercise 8: Write a Java method to count all vowels in a string.
+
+Exercise 9:Next floating-point value
+Write a program that returns the next floating-point adjacent to the given float/double in the direction of positive/negative infinity.
+public float nextValue(float x){
+return x+1;
+}
+Exercise 10:
+Write a program that removes the given character from the given string.
+
+Exercise 11:
+Write a program that simulates an assembly line for checking and packing up bulbs as follows: checking takes place during the day, while packing takes place at night. The checking process result in a queue of 100 bulbs every day. The packing process should pack and return all the bulbs at once. In other words, we should submit all Callable tasks and wait for all of them to complete.
+
+Exercise 12:
+Write a program that uses the HTTP Client API to set a cookie handler.
+
+Exercise 13:
+Write a program that uses HTTP Client API to download a resource.
+
+Exercise 14:
+Write a program that converts an `Iterable` to `List`. 
+
+Exercise 15:
+Write a program that converts an `Date` to `YearMonth` and vice-versa. 
+
+===========================================================================
+https://teams.microsoft.com/l/meetup-join/19:meeting_ZWMyMTQxYjEtOTY3YS00YTQwLTkwNWMtYmRlNWRiZjc3ZDNk@thread.v2/0?context=%7B%22Tid%22:%22b727a530-a0d5-4fb8-bd40-d8f9763e97db%22,%22Oid%22:%2240475c42-23db-41ed-97c5-904b7b8c3c92%22%7D
+
+====================================================================================================================
+
